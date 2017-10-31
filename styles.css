@@ -1,0 +1,30 @@
+body {
+	background-color: purple;
+      }
+header {
+	background-image: url("images/purple.jpg");
+    width: 960px; 
+    height: 100px;
+    margin-top: -39px
+       }  
+#header-text {
+	color: white;
+    font-size: 250%;
+     text-align: center; 
+      }    
+aside {
+	background-image: url("images/buddha3.jpg");
+    width: 480px;
+	height: 800px; 
+	 
+	  }
+
+#container {
+  display: flex;
+}
+p {
+  text-align: center;
+  font-family: "Handlee", cursive;
+  font-size: 120%;
+  
+}	  
