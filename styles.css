@@ -28,3 +28,15 @@ p {
   font-size: 120%;
   
 }	  
+.button1 {
+  background-color: #555555;
+}
+.button2 {
+  background-color: #555555;
+}
+.footer-title {
+  text-align: center;
+  font-size: 200%;
+  color: #fff;
+  font-family: "Times New Roman";
+}
